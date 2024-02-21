@@ -1,3 +1,9 @@
+## Live Contract Dashboard
+
+https://thirdweb.com/mumbai/0xa517c6aBB1451a2d5A1f4Faa64e42E9356B2990b
+
+Mumbai Polygon Scan: https://mumbai.polygonscan.com/address/0xa517c6aBB1451a2d5A1f4Faa64e42E9356B2990b
+
 ## Getting Started
 
 Create a project using this example:
